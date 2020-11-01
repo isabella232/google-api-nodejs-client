@@ -315,6 +315,7 @@ import {
   policytroubleshooter,
 } from './policytroubleshooter';
 import {VERSIONS as polyVersions, poly} from './poly';
+import {VERSIONS as privatecaVersions, privateca} from './privateca';
 import {
   VERSIONS as prod_tt_sasportalVersions,
   prod_tt_sasportal,
@@ -586,6 +587,7 @@ export const APIS: APIList = {
   plus: plusVersions,
   policytroubleshooter: policytroubleshooterVersions,
   poly: polyVersions,
+  privateca: privatecaVersions,
   prod_tt_sasportal: prod_tt_sasportalVersions,
   pubsub: pubsubVersions,
   pubsublite: pubsubliteVersions,
@@ -781,6 +783,7 @@ export class GeneratedAPIs {
   plus = plus;
   policytroubleshooter = policytroubleshooter;
   poly = poly;
+  privateca = privateca;
   prod_tt_sasportal = prod_tt_sasportal;
   pubsub = pubsub;
   pubsublite = pubsublite;

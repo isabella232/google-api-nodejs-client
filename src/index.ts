@@ -234,6 +234,7 @@ export {plus_v1} from './apis/plus/v1';
 export {policytroubleshooter_v1} from './apis/policytroubleshooter/v1';
 export {policytroubleshooter_v1beta} from './apis/policytroubleshooter/v1beta';
 export {poly_v1} from './apis/poly/v1';
+export {privateca_v1beta1} from './apis/privateca/v1beta1';
 export {prod_tt_sasportal_v1alpha1} from './apis/prod_tt_sasportal/v1alpha1';
 export {pubsub_v1} from './apis/pubsub/v1';
 export {pubsub_v1beta1a} from './apis/pubsub/v1beta1a';
